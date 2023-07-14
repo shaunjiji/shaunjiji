@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaun</h1>
+<h1 align="center">Hi 👋, I'm Shaun Jiji</h1>
 <h3 align="center">Full Stack Web Developer with a background in Civil Engineering and engineering design experience in the Light Rail Transit industry.</h3>
 
 - 🔭 I’m currently working on [CRWN-CLOTHING](https://github.com/shaunjiji/crwn-clothing-v1)
